@@ -1,2 +1,2 @@
 # portfolio
-(/assets/project3.PNG)
+(/assets2/project3.PNG)
